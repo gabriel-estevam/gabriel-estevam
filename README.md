@@ -9,7 +9,7 @@ I have Bachelor’s Degree in Computer Science at CEUNSP (2022).
 
 Currently I'm looking for an opportunity as software developer to put into pratice all I've been learning.
 
-### ⚡Languages & Frameworks
+## ⚡Languages & Frameworks
 
   <div style="display: inline_block"><br>
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
