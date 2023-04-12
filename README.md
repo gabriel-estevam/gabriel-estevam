@@ -9,6 +9,29 @@ I have Bachelor’s Degree in Computer Science at CEUNSP (2022).
 
 Currently I'm looking for an opportunity as software developer to put into pratice all I've been learning.
 
+## Check out my Projects
+
+### Desktop System
+1. <a href="https://github.com/gabriel-estevam/workshop-javafx-jdbc" target="_blank">CRUD using Java, JavaFX and MYSQL.</a><br>
+This was my first desktop project using java in backend and frontend.
+
+### Web Systems
+1. <a href="https://github.com/gabriel-estevam/tgi_frontend" target="_blank">Stock Control System.</a><br>
+During my senior year of college, we developed a system to control the cleaning supplies stock of all local schools in Salto city. The system brought improvements to the public department and optimized the user experience creating positive insights.
+
+### Mobile App's
+1. <a href="https://github.com/gabriel-estevam/crud-usuarios-rn" target="_blank">CRUD using React Native and LocalStorage.</a><br>
+2. <a href="https://github.com/gabriel-estevam/react-native-projeto-tasks" target="_blank">CRUD using React Native and PostgreSQL.</a><br> In this project I developed an App TO-DO List
+
+### Games App
+1.  <a href="https://github.com/gabriel-estevam/chess-system-java" target="_blank">Chess System.</a><br> 
+This project was based on chess system, and was built using OOP
+3.  <a href="https://github.com/gabriel-estevam/flappy-bird-html-css-js" target="_blank">Flappy Bird.</a><br> 
+This project was based on the famous app game Flappy Bird, in this project I using HMTL5 and CSS3, and game mechanic was developed in javascript.
+
+### CRUD API's 
+1. <a href="https://github.com/gabriel-estevam/course-springboot-2-java-11" target="_blank">CRUD using Spring Boot and PostgreSQL.</a>
+2. <a href="https://github.com/gabriel-estevam/workshop-spring-boot-mongodb" target="_blank">CRUD using Spring Boot and MongoDB (NO-SQL).</a>
 ## ⚡Languages & Frameworks
 
   <div style="display: inline_block"><br>
