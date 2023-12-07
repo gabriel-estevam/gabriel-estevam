@@ -18,7 +18,7 @@ This was my first desktop project using java in backend and frontend.
 ### Web Systems
 1. <a href="https://github.com/gabriel-estevam/tgi_frontend" target="_blank">Stock Control System.</a><br>
 During my senior year of college, we developed a system to control the cleaning supplies stock of all local schools in Salto city. The system brought improvements to the public department and optimized the user experience creating positive insights.<br>
-2. <a href="https://github.com/gabriel-estevam/controle-estoque-java-react" target="_blank"> EasyEstoque Web Application for Stock Management.</a> This project is a feature from [Stock Control System](https://github.com/gabriel-estevam/tgi_frontend) using other languages and frameworks.<br>
+2. <a href="https://github.com/gabriel-estevam/controle-estoque-java-react" target="_blank"> EasyEstoque Web Application for Stock Management.</a> This project is a feature from [Stock Control System](https://github.com/gabriel-estevam/tgi_frontend) which I used other languages and frameworks.<br>
 
 ### Mobile App's
 1. <a href="https://github.com/gabriel-estevam/crud-usuarios-rn" target="_blank">CRUD using React Native and LocalStorage.</a><br>
