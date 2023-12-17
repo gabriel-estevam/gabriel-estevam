@@ -3,7 +3,7 @@
 
 Enthusiast of the best web & mobile development technologies.
 
-I'm web & software developer and Cybersecurity Analyst, passionate about Product Development. 
+I'm web & software developer and Cybersecurity Analyst, passionate about Development and Hacking. 
 
 I have Bachelor’s Degree in Computer Science at CEUNSP (2022).
 
