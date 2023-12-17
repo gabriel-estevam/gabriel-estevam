@@ -16,13 +16,13 @@ Currently I'm looking for an opportunity as software developer to put into prati
 This was my first desktop project using java in backend and frontend.
 
 ### Web Systems
-1. <a href="https://github.com/gabriel-estevam/tgi_frontend" target="_blank">Stock Control System.</a><br>
-During my senior year of college, we developed a system to control the cleaning supplies stock of all local schools in Salto city. The system brought improvements to the public department and optimized the user experience creating positive insights.<br>
+1. <a href="https://github.com/gabriel-estevam/tgi_frontend" target="_blank">Stock Management Application.</a><br>
+During my senior year of college, we developed a system to manage the cleaning supplies stock of all local schools in Salto city. The system brought improvements to the public department and optimized the user experience creating positive insights.<br>
 2. <a href="https://github.com/gabriel-estevam/controle-estoque-java-react" target="_blank"> EasyEstoque Web Application for Stock Management.</a> This project is a feature from [Stock Control System](https://github.com/gabriel-estevam/tgi_frontend) which I used other languages and frameworks.<br>
 
 ### Mobile App's
-1. <a href="https://github.com/gabriel-estevam/crud-usuarios-rn" target="_blank">CRUD using React Native and LocalStorage.</a><br>
-2. <a href="https://github.com/gabriel-estevam/react-native-projeto-tasks" target="_blank">CRUD using React Native and PostgreSQL.</a> In this project I developed an App TO-DO List<br>
+1. <a href="https://github.com/gabriel-estevam/crud-usuarios-rn" target="_blank">App using React Native and LocalStorage.</a><br>
+2. <a href="https://github.com/gabriel-estevam/react-native-projeto-tasks" target="_blank">TO-DO List using React Native</a> In this project I developed an App TO-DO List<br>
 
 ### Games App
 1.  <a href="https://github.com/gabriel-estevam/chess-system-java" target="_blank">Chess System.</a><br> 
